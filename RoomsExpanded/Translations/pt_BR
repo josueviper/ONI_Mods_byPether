@@ -101,6 +101,7 @@ msgstr "Pelo menos um vaso de flores, um vaso de parede, um vaso suspenso ou um 
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.FLOWERPOT.NAME"
 msgid "Flower Pot of any kind"
 msgstr "Vaso de qualquer tipo"
+
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.FOSSILS.DESCRIPTION
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.FOSSILS.DESCRIPTION"
 msgid "At least {0} Fossils."
@@ -180,7 +181,8 @@ msgstr "Todas as plantas devem ser domesticadas"
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.NOWILDPLANTS.NAME
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.NOWILDPLANTS.NAME"
 msgid "No wild plants"
-msgstr "Sem plantas silvestres"																
+msgstr "Sem plantas silvestres"		
+
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.NOWILTING.DESCRIPTION
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.NOWILTING.DESCRIPTION"
 msgid "Room conditions must allow all plants to thrive."
@@ -211,7 +213,8 @@ msgid "O quarto não pode ter mais de uma cama."
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.ONLYONEBED.NAME
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.ONLYONEBED.NAME"
 msgid "No more than one bed"
-msgstr "Não mais do que uma cama"															   
+msgstr "Não mais do que uma cama"		
+
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.PAINTINGS.DESCRIPTION
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.PAINTINGS.DESCRIPTION"
 msgid "At least {0} Paintings of different type."
@@ -301,7 +304,8 @@ msgstr "Contém a Estação de Controle da Missão."
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.SPACE_BUILDING.NAME
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.SPACE_BUILDING.NAME"
 msgid "Pilot Support Building"
-msgstr "Prédio de Apoio ao Piloto"															  
+msgstr "Prédio de Apoio ao Piloto"	
+
 #. RoomsExpanded.STRINGS.ROOMS.CRITERIA.SWIMMINGCREATURES.DESCRIPTION
 msgctxt "RoomsExpanded.STRINGS.ROOMS.CRITERIA.SWIMMINGCREATURES.DESCRIPTION"
 msgid "At least {0} swimming critters"
@@ -439,8 +443,8 @@ msgstr "Aquário"
 
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.AQUARIUM.TOOLTIP
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.AQUARIUM.TOOLTIP"
-msgid "As criaturas em exibição parecem muito mais bonitas."
-msgstr "Le creature esposte sembrano molto più carine."
+msgid "Properly exposed critters seem to be much prettier."
+msgstr "As criaturas em exibição parecem muito mais bonitas."
 
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.BOTANICAL.EFFECT
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.BOTANICAL.EFFECT"
@@ -545,7 +549,8 @@ msgstr "Central de Ajuda do Piloto"
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.MISSIONCONTROL.TOOLTIP
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.MISSIONCONTROL.TOOLTIP"
 msgid "So many duplicants work together just to get a new mug."
-msgstr "Muitos duplicantes trabalham juntos apenas para obter uma nova caneca."														  
+msgstr "Muitos duplicantes trabalham juntos apenas para obter uma nova caneca."		
+
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.MUSEUM.EFFECT
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.MUSEUM.EFFECT"
 msgid " • <style=\"KKeyword\">Morale</style>: +{0} of duplicant's Creativity skill as morale (up to +10)"
@@ -560,6 +565,7 @@ msgstr "Museu"
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.MUSEUM.TOOLTIP"
 msgid "It used to be a storehouse, before Meep confused Pedestal content with art."
 msgstr "Antes era um armazém, antes de Niko confundir o conteúdo do Pedestal com a arte."
+
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.MUSEUMHISTORY.EFFECT
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.MUSEUMHISTORY.EFFECT"
 msgid " • <style=\"KKeyword\">Morale</style>: +{0} of duplicant's Science skill as morale (up to +10)"
@@ -604,6 +610,7 @@ msgstr "Viveiro"
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.NURSERY.TOOLTIP"
 msgid "Enriched environment improves plant development."
 msgstr "O ambiente enriquecido melhora o crescimento das plantas."
+
 #. RoomsExpanded.STRINGS.ROOMS.TYPES.NURSERYGENETIC.EFFECT
 msgctxt "RoomsExpanded.STRINGS.ROOMS.TYPES.NURSERYGENETIC.EFFECT"
 msgid " - Increased chance for seed dropping or genetic mutation: +{0}"
